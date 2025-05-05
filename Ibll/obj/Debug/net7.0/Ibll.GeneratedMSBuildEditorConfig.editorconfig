@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Ibll
-build_property.ProjectDir = C:\Users\רותי שיף\Documents\הנדסאים\Angular_CSharp\server_c#\server\Ibll\
+build_property.ProjectDir = c:\Users\רותי שיף\Documents\הנדסאים\Angular_CSharp\server_c#\server\Ibll\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
