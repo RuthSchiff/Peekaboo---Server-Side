@@ -44,9 +44,9 @@
 - משתמשת ב-.NET 7.0 ומכילה קבצים הקשורים ל-Razor Pages.
 
 ## פונקציות בפרויקט:
-# פונקציות בפרויקט Peekaboo - Server Side
+### פונקציות בפרויקט Peekaboo - Server Side
 
-## פונקציות לפי שכבות
+#### פונקציות לפי שכבות
 
 ### 1. **Bll (Business Logic Layer)**
 
